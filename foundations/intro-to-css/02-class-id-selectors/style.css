@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.ajustar-fuente {
+            font-size: 24px;
+}
+
+.impar {
+        background-color: rgb(255, 182, 193);
+        font-family: verdana, DejaVu Sans, sans-serif
+}
+
+#segundo {
+            color: blue;
+        font-size: 36px;
+}
+
+.cool {
+            font-size: 24px;
+}
+
+#cuarto {
+            background-color: lightgreen;
+            font-weight: bold;
+}
